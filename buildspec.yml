@@ -17,4 +17,4 @@ phases:
       - mv target/eb-java-scorekeep-0.0.1.jar eb-java-scorekeep-0.0.1.jar
 artifacts:
   files:
-    - target/eb-java-scorekeep-0.0.1.jar
+    - eb-java-scorekeep-0.0.1.jar
