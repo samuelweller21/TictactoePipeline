@@ -14,7 +14,7 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-      - - mv target/eb-java-scorekeep-0.0.1.jar eb-java-scorekeep-0.0.1.jar
+      - mv target/eb-java-scorekeep-0.0.1.jar eb-java-scorekeep-0.0.1.jar
 artifacts:
   files:
     - target/eb-java-scorekeep-0.0.1.jar
